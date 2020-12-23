@@ -1,0 +1,21 @@
+[
+    {
+        "todoId": "001",
+        "todoDescription": "Gå och handla"
+    },
+
+    {
+        "todoId": "002",
+        "todoDescription": "Gå ut med hunden"
+    },
+
+    {
+        "todoId": "003",
+        "todoDescription": "Laga mat"
+    },
+
+    {
+        "todoId": "004",
+        "todoDescription": "Städa lägenheten"
+    }
+]
